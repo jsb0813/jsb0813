@@ -8,7 +8,8 @@ https://velog.io/@imysh578/github-Profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 # Hi, I'm SUBEEN JO 👋
 
 </br>I'm an undergraduate student in **DGIST** and interested in **HCI**.
-</br>I was an undergraduate research intern in **DIAG(Designing Intelligence Augmentation Group)** during 2023 summer session, in **Division of AI, Big data and Block chain** during 2023 winter session.
+</br>I was an undergraduate research intern in **DIAG(Designing Intelligence Augmentation Group)** during 2023 summer session,
+</br>and **DGIST Division of AI, Big data and Block chain** during 2023 winter session.
 </br>Now, I'm an undergraduate research intern in **Ubiquitous AI Lab** of UNIST.
 
 </br>
