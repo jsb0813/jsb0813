@@ -27,15 +27,15 @@ https://velog.io/@imysh578/github-Profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md -->
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsb0813&layout=compact&theme=dark) -->
 
-</br>
-
-## ⌨ PROBLEM SOLVING
+<!--## ⌨ PROBLEM SOLVING-->
 <!-- 백준 티어 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsbhaha)](https://solved.ac/jsbhaha)
+<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsbhaha)](https://solved.ac/jsbhaha)-->
+<!--
 </a>
   <a href="https://solved.ac/jsbhaha" target="_blank">
     <img src="http://mazandi.herokuapp.com/api?handle=jsbhaha&theme=dark" alt="mazandi profile">
 </a>
+-->
 
 </br>
 
